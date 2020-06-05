@@ -169,13 +169,18 @@ p{
 
 input.MyButton{
     width: 80px;
-    background-color: blue;
+    background-color: black;
     color: white;
 
 }
 
 input.MyButton:hover {
-    color: #ffff00;
-    background: #000;
-    border: 1px solid #fff;
+    color: white;
+    background: pink;
+    border: 1px solid black;
     }
+
+#addtocart1{
+    float: right;
+    margin-top: 15px;
+}
