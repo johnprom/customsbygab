@@ -1,0 +1,197 @@
+
+
+body{
+    width: 960px;
+    margin: 0 auto;
+    /* background-color: #f1eadf; */
+}
+
+main{
+    margin-top: 20px;
+    background-color: white;
+    min-height: 100vh;
+    padding-bottom: 30px;
+}
+
+footer{
+    font-family: 'Antic Didone', serif;
+    margin-top: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1px;
+    margin-bottom: 20px;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Antic Didone', serif;
+
+}
+
+h4{
+    font-size: small;
+}
+
+
+h2{
+    margin: 0;
+}
+
+.pagetitle{
+    width: 100vw;
+    color: black;
+    /* margin-top: 20px; */
+    height: 200px;
+    background-image: url(img/white-marble.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 14px;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+}
+
+.pagetitle h1{
+    font-family: 'Antic Didone', serif;
+    font-size: 55pt;
+    margin:0;
+    font-weight: 400;
+    font-stretch: narrower;
+    margin-left: 30px;
+}
+
+.pagetitle h2{
+    color: gray;
+    font-family: 'Antic Didone', serif;
+    margin-left: 35px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+
+ul a{
+    font-family: 'Antic Didone', serif;
+}
+
+li {
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: pink;
+}
+
+.active {
+    background-color: pink;
+}
+
+.box{
+    width: 280px;
+    height: 320px;
+}
+
+#row{
+    width: 900px;
+    height: 305px;
+    padding: 30px;
+}
+
+#col1{
+    float: left;
+    /* formatting */
+    
+}
+#col2{
+    float: left;
+    margin-left: 30px;
+    /* formatting */ 
+}
+
+#col3{
+    float: left;
+    margin-left: 30px;
+    /* formatting */
+}
+
+.crewneck{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+#sizeaddtocart{
+    width:86%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+#sizechart{
+    float: left;
+}
+
+#addtocart{
+    float: right
+}
+
+#pixlee_contianer{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
+
+#blurb{
+    text-align: justify;
+}
+
+.profile_pic{
+    width: 40%;
+    float: left;
+}
+
+input.MyButton{
+    width: 200px;
+
+}
+
+input.MyButton:hover {
+    color: #ffff00;
+    background: #000;
+    border: 1px solid #fff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
