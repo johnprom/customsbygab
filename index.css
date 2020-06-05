@@ -168,7 +168,9 @@ p{
 }
 
 input.MyButton{
-    width: 200px;
+    width: 80px;
+    background-color: blue;
+    color: white;
 
 }
 
@@ -177,21 +179,3 @@ input.MyButton:hover {
     background: #000;
     border: 1px solid #fff;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
