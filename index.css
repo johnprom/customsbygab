@@ -7,7 +7,7 @@ body{
 }
 
 main{
-    margin-top: 20px;
+    
     background-color: white;
     min-height: 100vh;
     padding-bottom: 30px;
@@ -21,6 +21,18 @@ footer{
     color: white;
     padding: 1px;
     margin-bottom: 20px;
+    position: relative;
+}
+
+#footerextend{
+    bottom: 20px;
+    width: 100vw;
+    height: 55px;
+    position: relative;
+    background-color: black;
+    margin-left: -50vw;
+    left: 50%;
+    top: 75px;
 }
 
 h3{
@@ -67,12 +79,30 @@ h2{
     margin-left: 35px;
 }
 
+#navbarextend{
+    bottom: 20px;
+    width: 100vw;
+    height: 47px;
+    position: relative;
+    background-color: black;
+    margin-left: -50vw;
+    left: 50%;
+    width: 100vw;
+    height: 47px;
+    position: relative;
+    background-color: black;
+    margin-left: -50vw;
+    left: 50%;
+}
+
 ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: rgb(0, 0, 0);
+    position: relative;
+    bottom: 67px;
 }
 
 ul a{
@@ -111,7 +141,7 @@ li a:hover{
 }
 
 .row1{
-    margin-top: 20px;
+    top: 0px;
 }
 
 .row2{
