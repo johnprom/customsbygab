@@ -1,13 +1,13 @@
-
-
 body{
     width: 960px;
     margin: 0 auto;
-    /* background-color: #f1eadf; */
+}
+
+.mainarea{
+    margin-top: 200px;
 }
 
 main{
-    
     background-color: white;
     min-height: 100vh;
     padding-bottom: 30px;
@@ -51,14 +51,16 @@ h2{
 }
 
 .pagetitle{
+    /* position:absolute;
+    left:0;
+    right:0; */
+
     width: 100vw;
     color: black;
-    /* margin-top: 20px; */
     height: 200px;
     background-image: url(img/white-marble.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 14px;
     position: relative;
     margin-left: -50vw;
     left: 50%;
@@ -81,12 +83,6 @@ h2{
 
 #navbarextend{
     bottom: 20px;
-    width: 100vw;
-    height: 47px;
-    position: relative;
-    background-color: black;
-    margin-left: -50vw;
-    left: 50%;
     width: 100vw;
     height: 47px;
     position: relative;
@@ -141,28 +137,24 @@ li a:hover{
 }
 
 .row1{
-    top: 0px;
+    margin-top: 0px;
 }
 
 .row2{
-    margin-top: 40px;
+    margin-top: 80px;
 }
 
 #col1{
     float: left;
-    /* formatting */
-    
 }
 #col2{
     float: left;
     margin-left: 30px;
-    /* formatting */ 
 }
 
 #col3{
     float: left;
     margin-left: 30px;
-    /* formatting */
 }
 
 .crewneck{
@@ -192,19 +184,10 @@ li a:hover{
     margin-right: auto;
 }
 
-
-#blurb{
-    text-align: justify;
-}
-
 .profile_pic{
     width: 40%;
     float: left;
     margin-right: 100px;
-}
-
-#aboutme{
-    margin-top: 50px;
 }
 
 input.MyButton{
@@ -224,11 +207,6 @@ input.MyButton:hover {
     float: right;
     margin-top: 15px;
 }
-
-
-
-/* image slider thing */
-
 
 /* Slideshow container */
 .slideshow-container {
@@ -269,17 +247,6 @@ input.MyButton:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption text */
-/* .text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-} */
-
 /* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
@@ -288,18 +255,6 @@ input.MyButton:hover {
   position: absolute;
   top: 0;
 }
-
-/* The dots/bullets/indicators
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-} */
 
 .active, .dot:hover {
   background-color: #717171;
@@ -321,4 +276,23 @@ input.MyButton:hover {
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+
+#ppdrop{
+    float:left;
+}
+
+#ppbutton{
+    float: right;
+    margin-top: 2px;
+}
+
+#pplogo{
+    float: right;
+}
+
+.pplogo{
+    height:30px;
+    margin-top: 8px;
+    margin-right: 15px;
 }
