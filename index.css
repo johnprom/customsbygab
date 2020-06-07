@@ -256,6 +256,11 @@ input.MyButton:hover {
   top: 0;
 }
 
+i{
+    font-size: 70%;
+    font-style: bold;
+}
+
 .active, .dot:hover {
   background-color: #717171;
 }
@@ -299,4 +304,10 @@ input.MyButton:hover {
 
 #followusonig{
     margin-bottom: 80px;
+}
+
+.soldout{
+    color: red;
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
 }
