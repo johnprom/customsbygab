@@ -55,6 +55,13 @@ h4{
   font-weight: lighter;
 }
 
+h5{
+  font-family: didot;
+  font-weight: bold;
+  font-size: x-large;
+  text-align: center;
+}
+
 p{
   padding: 0;
   margin: 0;
