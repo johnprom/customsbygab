@@ -314,18 +314,18 @@ i{
    padding-top: 20px;
    padding-bottom: 20px;;
    text-align: center;
-   width: 80%;
    margin-left: auto;
    margin-right: auto;
    font-family: didot;
    font-size: large;
    font-weight: bold;
+   width: 90%;
  }
 
  #aboutbody{
   padding-bottom: 20px;
   text-align: center;
-  width: 80%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
   font-family: didot;
