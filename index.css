@@ -343,3 +343,6 @@ i{
    width: 640px;
  }
 
+.invisible{
+  display: none;
+}
