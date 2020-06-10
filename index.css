@@ -3,6 +3,11 @@
   font-family: didot;
 }
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
 /* parent of title navbar and footer full screen*/
 body{
   margin: 0;
