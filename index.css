@@ -336,3 +336,9 @@ i{
    max-width: 640px;
  }
 
+ #about{
+   max-width: 640px;
+   margin-right: auto;
+   margin-left: auto;
+ }
+
