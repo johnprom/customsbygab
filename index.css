@@ -154,7 +154,7 @@ main{
   text-align: center;
   background-color: black;
   width: 100%;
-
+  min-width: 640px;
 }
 
 /* container for entire grid */
