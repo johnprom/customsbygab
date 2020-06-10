@@ -3,10 +3,10 @@
   font-family: didot;
 }
 
-@viewport {
+/* @viewport {
   width: device-width ;
   min-zoom: 640px;
-}
+} */
 
 /* parent of title navbar and footer full screen*/
 body{
