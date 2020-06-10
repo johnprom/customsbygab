@@ -346,3 +346,8 @@ i{
 .invisible{
   display: none;
 }
+
+#pixlee_container{
+  height: 10px;
+  background-color: white;
+}
