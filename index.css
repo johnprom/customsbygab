@@ -3,6 +3,12 @@
   font-family: didot;
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    width: 640px;
+  }
+}
+
 /* @viewport {
   width: device-width ;
   min-zoom: 640px;
@@ -325,22 +331,16 @@ i{
  #aboutbody{
   padding-bottom: 20px;
   text-align: center;
-  max-width: 640px;
   margin-left: auto;
   margin-right: auto;
   font-family: didot;
   font-size: large;
  }
 
- .aboutpatch{
-   max-width: 640px;
- }
-
  #about{
    /* max-width: 640px; */
    margin-right: auto;
    margin-left: auto;
-   width: 640px;
  }
 
 .invisible{
