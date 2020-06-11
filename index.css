@@ -160,8 +160,8 @@ main{
 #footer{
   position: fixed;
   bottom: 0px;
-  padding-left: 0;
   padding: 12px;
+  padding-left: 0;
   text-align: center;
   background-color: black;
   width: 100%;
