@@ -358,8 +358,6 @@ i{
   width: 100%;
 }
 
-#textshort{
-  width: 580px;
-  margin-left: auto;
-  margin-right: auto;
+.yeet{
+  margin-bottom: -12px;
 }
