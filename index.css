@@ -24,6 +24,7 @@ body{
   display: flex;
   flex-direction: column;
   min-width: 640px;
+  background-color: white;
 }
 
 /* title and slogan */
