@@ -15,7 +15,7 @@ to add a new paypal button:
 5 Get rid of both border="0" parts
 
 6 Replace add to cart image ' src="..." ' with: 
-class="addtocartbuttonimage" src="img/add-to-cart-button.jpg"
+class="addtocartbuttonimage" src="img/add-to-cart-button.png"
 
 7 change 'method ="post"' in first line to: 
 method = "add"
