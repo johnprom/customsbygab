@@ -7,18 +7,6 @@
   body {
     width: 640px;
   }
-
-  #redbox {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  #greenbox {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
 
 
@@ -171,7 +159,6 @@ main{
   margin-bottom: 55px;
   margin-left: auto;
   margin-right: auto;
-  background-color: white;
 }
 
 /* bottom fixed footer */
@@ -540,19 +527,20 @@ hr.thin {
 #triple{
   text-align: left;
   color: white;
-  margin: 20px;
+  padding-top: 0px;
 }
 
 #double{
   text-align: right;
   color: white;
-  margin: 20px;
+  padding-top: 0px;
 }
 
 #allproducts{
   text-align: left;
   color: white;
-  margin: 20px;
+  padding-top: 15px;
+  margin-bottom: 20px;
 }
 
 .homepagesection{
