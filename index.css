@@ -583,6 +583,7 @@ hr.thin {
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+  color: white;
 }
 
 .homepagesection:hover{
@@ -592,8 +593,9 @@ hr.thin {
 #tripleimg{
   width: 200px;
   float: left;
-  border-radius: 10px;
+  border-radius: 15px;
   padding-right: 15px;
+  display: block;
 }
 
 #tripleimgright{
