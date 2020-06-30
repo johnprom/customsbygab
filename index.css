@@ -171,6 +171,7 @@ main{
   margin-bottom: 55px;
   margin-left: auto;
   margin-right: auto;
+  background-color: white;
 }
 
 /* bottom fixed footer */
@@ -378,7 +379,7 @@ i{
 
 #redbox{
   width: 49%;
-  float: left;
+  float: left
 }
 
 #greenbox{
@@ -391,7 +392,7 @@ i{
   width: 95%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 hr.thin {
@@ -513,6 +514,10 @@ hr.thin {
   font-weight: normal;
 }
 
+
+
+
+
 .homepageslidecontainer1{
   width: 51%;
   float: left;
@@ -548,14 +553,60 @@ hr.thin {
 }
 
 .homepagehead{
-  font-size: 22px;
   font-family: didot;
-  font-weight: bold;
+  margin-left: 10px;
+  font-size: 50px;
+  padding: 16;
+  margin-top: 20px;
+  font-weight: lighter;
+  letter-spacing: -2px;
+  margin-bottom: 0;
+  color: white;
 }
 
 .homepagesubhead{
-  font-size: 18px;
+  font-size: 24px;
   font-family: didot;
-
+  color: white;
 }
 
+#triple{
+  background-color: rgb(221, 166, 175);
+}
+
+#double{
+  background-color: rgb(221, 166, 175);
+  text-align: right;
+}
+
+#allproducts{
+  background-color: rgb(221, 166, 175);
+  margin-bottom: 20px;
+}
+
+.homepagesection{
+  display: block;
+  height: 250px;
+  margin: 20px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+}
+
+#tripleimg{
+  width: 200px;
+  padding: 25px;
+  float: left;
+  border-radius: 30px;
+}
+
+#tripleimgright{
+  width: 200px;
+  padding: 25px;
+  float: right;
+  border-radius: 30px;
+}
+
+.homepagedes{
+  color: white;
+  padding: 25px;
+}
