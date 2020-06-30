@@ -540,17 +540,19 @@ hr.thin {
 #triple{
   text-align: left;
   color: white;
+  margin: 20px;
 }
 
 #double{
   text-align: right;
   color: white;
+  margin: 20px;
 }
 
 #allproducts{
   text-align: left;
   color: white;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 
 .homepagesection{
