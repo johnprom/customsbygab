@@ -517,41 +517,6 @@ hr.thin {
 
 
 
-
-.homepageslidecontainer1{
-  width: 51%;
-  float: left;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  /* background-color: teal; */
-}
-
-.homepagedesctext1{
-  width: 46%;
-  float: right;
-  text-align: right;
-  margin-right: 15px;
-  margin-top: 25px;
-  margin-bottom: 10px;
-  /* background-color: red; */
-}
-
-.homepageslidecontainer2{
-  width: 51%;
-  float: right;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  /* background-color: teal; */
-}
-
-.homepagedesctext2{
-  width: 46%;
-  float: left;
-  margin-left: 15px;
-  margin-top: 25px;
-  /* background-color: red; */
-}
-
 .homepagehead{
   font-family: didot;
   margin-left: 10px;
@@ -571,16 +536,14 @@ hr.thin {
 }
 
 #triple{
-  background-color: rgb(221, 166, 175);
+  text-align: left;
 }
 
 #double{
-  background-color: rgb(221, 166, 175);
   text-align: right;
 }
 
 #allproducts{
-  background-color: rgb(221, 166, 175);
   margin-bottom: 20px;
 }
 
@@ -590,6 +553,7 @@ hr.thin {
   margin: 20px;
   border-radius: 10px;
   margin-bottom: 40px;
+  background-color: rgb(221, 166, 175);
 }
 
 #tripleimg{
