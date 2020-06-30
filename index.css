@@ -527,23 +527,29 @@ hr.thin {
   letter-spacing: -2px;
   margin-bottom: 0;
   color: white;
+  line-height: 60px;
 }
 
 .homepagesubhead{
   font-size: 24px;
   font-family: didot;
   color: white;
+  line-height: 25px;
 }
 
 #triple{
   text-align: left;
+  color: white;
 }
 
 #double{
   text-align: right;
+  color: white;
 }
 
 #allproducts{
+  text-align: left;
+  color: white;
   margin-bottom: 20px;
 }
 
