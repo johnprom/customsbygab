@@ -1,21 +1,24 @@
 to add a new paypal button:
 
 1 after first <form> line paste: 
-<div class= "sizedrop">
+<div id="sizeandcart"><div id="selectsize">
 
 2 after second <table> line paste: 
-</div><div class="addtocartbutton">
+</div><div id="addtocart2">
 
-3 after the line above closing <form> paste: 
+3 next to closing <form> paste: 
 </div>
 
 4 Replace the 'Sizes' text with:
-<div class="price">$XX.XX</div>
+<span class="selectsizetext">Select Size</span>
 
 5 Get rid of both border="0" parts
 
 6 Replace add to cart image ' src="..." ' with: 
-class="addtocartbuttonimage" src="img/add-to-cart-button.png"
+class="addtocartimg" src="img/add-to-cart-button.png"
 
-7 change 'method ="post"' in first line to: 
+7 Inside opening select paste
+style="width: 91px;"
+
+8 change 'method ="post"' in first line to: 
 method = "add"
