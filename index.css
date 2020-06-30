@@ -527,14 +527,14 @@ hr.thin {
   letter-spacing: -2px;
   margin-bottom: 0;
   color: white;
-  line-height: 60px;
+  line-height: 74px;
 }
 
 .homepagesubhead{
   font-size: 24px;
   font-family: didot;
   color: white;
-  line-height: 25px;
+  line-height: 36px;
 }
 
 #triple{
@@ -560,6 +560,10 @@ hr.thin {
   border-radius: 10px;
   margin-bottom: 40px;
   background-color: rgb(221, 166, 175);
+}
+
+.homepagesection:hover{
+  background-color: grey ;
 }
 
 #tripleimg{
