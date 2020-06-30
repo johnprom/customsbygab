@@ -504,52 +504,85 @@ hr.thin {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .homepagehead{
   font-family: didot;
-  margin-left: 10px;
   font-size: 50px;
-  padding: 16;
-  margin-top: 20px;
   font-weight: lighter;
   letter-spacing: -2px;
-  margin-bottom: 0;
   color: white;
-  line-height: 74px;
 }
 
 .homepagesubhead{
   font-size: 24px;
   font-family: didot;
   color: white;
-  line-height: 36px;
 }
 
 #triple{
   text-align: left;
   color: white;
-  padding-top: 0px;
+  margin-top: 20px;
 }
 
 #double{
   text-align: right;
   color: white;
-  padding-top: 0px;
+  margin-top: 30px;
 }
 
 #allproducts{
   text-align: left;
   color: white;
-  padding-top: 15px;
+  margin-top: 30px;
   margin-bottom: 20px;
 }
 
 .homepagesection{
   display: block;
-  height: 250px;
-  margin: 20px;
+  height: 200px;
   border-radius: 10px;
-  margin-bottom: 40px;
   background-color: rgb(221, 166, 175);
+  padding: 25px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .homepagesection:hover{
@@ -558,19 +591,18 @@ hr.thin {
 
 #tripleimg{
   width: 200px;
-  padding: 25px;
   float: left;
-  border-radius: 30px;
+  border-radius: 10px;
+  padding-right: 15px;
 }
 
 #tripleimgright{
   width: 200px;
-  padding: 25px;
   float: right;
-  border-radius: 30px;
+  border-radius: 10px;
+  padding-left: 15px;
 }
 
 .homepagedes{
   color: white;
-  padding: 25px;
 }
