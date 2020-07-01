@@ -604,11 +604,11 @@ hr.thin {
 .test3{
   color: black;
   font-size: 49px;
-  font-family: didot;
+  /* font-family: didot; */
 }
 
 .test4{
   color: black;
   font-size: 23px;
-  font-family: didot;
+  /* font-family: didot; */
 }
