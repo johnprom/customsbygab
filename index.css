@@ -533,22 +533,20 @@ hr.thin {
   font-size: 50px;
   font-weight: lighter;
   letter-spacing: -2px;
-  color: black;
+  color: white;
 }
 
 .homepagesubhead{
   font-size: 24px;
   /* font-family: didot; */
-  color: black;
+  color: white;
 }
 
 #homeinfo1{
-  background-color: aquamarine;
   margin-left: 220px;
 }
 
 #homeinfo2{
-  background-color: aquamarine;
   margin-right: 220px;
 }
 
@@ -599,16 +597,4 @@ hr.thin {
   width: 200px;
   float: right;
   border-radius: 10px;
-}
-
-.test3{
-  color: black;
-  font-size: 49px;
-  /* font-family: didot; */
-}
-
-.test4{
-  color: black;
-  font-size: 23px;
-  /* font-family: didot; */
 }
