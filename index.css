@@ -563,6 +563,10 @@ hr.thin {
   color: white;
 }
 
+#homeinfo{
+  display: block;
+}
+
 #triple{
   text-align: left;
   color: white;
