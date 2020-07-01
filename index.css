@@ -556,7 +556,7 @@ hr.thin {
   text-align: left;
   margin-top: 20px;
 
-  /* background-color: rgb(221, 166, 175); */
+  background-color: rgb(221, 166, 175);
 }
 
 #double{
@@ -573,7 +573,6 @@ hr.thin {
 }
 
 .homepagesection{
-  display: block;
   height: 200px;
   border-radius: 10px;
   padding: 25px;
