@@ -563,8 +563,16 @@ hr.thin {
   color: white;
 }
 
-#homeinfo{
+#homeinfo1{
   display: block;
+  background-color: aquamarine;
+  margin-left: 210px;
+}
+
+#homeinfo2{
+  display: block;
+  background-color: aquamarine;
+  margin-right: 210px;
 }
 
 #triple{
