@@ -602,10 +602,11 @@ hr.thin {
 }
 
 .test3{
-  color: blue;
-  size: 40px;
+  color: red;
+  size: 80px;
 }
 
 .test4{
   color: green;
+  size: 40px;
 }
