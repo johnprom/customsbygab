@@ -600,3 +600,8 @@ hr.thin {
   float: right;
   border-radius: 10px;
 }
+
+#test3{
+  color: blue;
+  size: 30px;
+}
