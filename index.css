@@ -603,10 +603,15 @@ hr.thin {
 
 .test3{
   color: red;
-  size: 80px;
+  font-size: 50px;
 }
 
 .test4{
   color: green;
-  size: 40px;
+  font-size: 20px;
+}
+
+.test5{
+  color: orange;
+  font-size: 30px;
 }
