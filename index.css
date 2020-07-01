@@ -556,7 +556,7 @@ hr.thin {
   text-align: left;
   margin-top: 20px;
 
-  background-color: rgb(221, 166, 175);
+  /* background-color: rgb(221, 166, 175); */
 }
 
 #double{
@@ -582,9 +582,9 @@ hr.thin {
   margin-right: auto;
 }
 
-#triple:hover,#double:hover,#allproducts:hover{
+/* #triple:hover,#double:hover,#allproducts:hover{
   background-color: rgb(155, 155, 155);
-}
+} */
 
 /* .homepagesection:hover{
   background-color: grey ;
