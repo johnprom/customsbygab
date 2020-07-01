@@ -566,13 +566,13 @@ hr.thin {
 #homeinfo1{
   display: block;
   background-color: aquamarine;
-  margin-left: 210px;
+  margin-left: 220px;
 }
 
 #homeinfo2{
   display: block;
   background-color: aquamarine;
-  margin-right: 210px;
+  margin-right: 220px;
 }
 
 #triple{
@@ -614,14 +614,12 @@ hr.thin {
   width: 200px;
   float: left;
   border-radius: 15px;
-  padding-right: 15px;
 }
 
 #tripleimgright{
   width: 200px;
   float: right;
   border-radius: 10px;
-  padding-left: 15px;
 }
 
 .homepagedes{
