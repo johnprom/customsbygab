@@ -529,7 +529,7 @@ hr.thin {
 
 
 .homepagehead{
-  font-family: didot;
+  /* font-family: didot; */
   font-size: 50px;
   font-weight: lighter;
   letter-spacing: -2px;
@@ -538,7 +538,7 @@ hr.thin {
 
 .homepagesubhead{
   font-size: 24px;
-  font-family: didot;
+  /* font-family: didot; */
   color: black;
 }
 
