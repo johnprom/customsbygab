@@ -528,27 +528,6 @@ hr.thin {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .homepagehead{
   font-family: didot;
   font-size: 50px;
@@ -579,12 +558,15 @@ hr.thin {
   text-align: left;
   color: white;
   margin-top: 20px;
+
+  background-color: rgb(221, 166, 175);
 }
 
 #double{
   text-align: right;
   color: white;
   margin-top: 30px;
+  background-color: rgb(221, 166, 175);
 }
 
 #allproducts{
@@ -592,23 +574,27 @@ hr.thin {
   color: white;
   margin-top: 30px;
   margin-bottom: 20px;
+  background-color: rgb(221, 166, 175);
 }
 
 .homepagesection{
   display: block;
   height: 200px;
   border-radius: 10px;
-  background-color: rgb(221, 166, 175);
   padding: 25px;
-  width: 90%;
+  width: 86%;
   margin-left: auto;
   margin-right: auto;
   color: white;
 }
 
-.homepagesection:hover{
-  background-color: grey ;
+#triple:hover,#double:hover,#allproducts:hover{
+  background-color: rgb(155, 155, 155);
 }
+
+/* .homepagesection:hover{
+  background-color: grey ;
+} */
 
 #tripleimg{
   width: 200px;
