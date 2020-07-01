@@ -452,7 +452,7 @@ hr.thin {
 }
 
 #sizeandcart{
-  background-color: white;
+  padding-bottom: 30px;
 }
 
 #selectsize{
@@ -579,9 +579,9 @@ hr.thin {
   margin-right: auto;
 }
 
-/* #triple:hover,#double:hover,#allproducts:hover{
+#triple:hover,#double:hover,#allproducts:hover{
   background-color: rgb(155, 155, 155);
-} */
+}
 
 /* .homepagesection:hover{
   background-color: grey ;
