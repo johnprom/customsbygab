@@ -602,16 +602,13 @@ hr.thin {
 }
 
 .test3{
-  color: red;
+  color: purple;
   font-size: 50px;
+  font-family: didot;
 }
 
 .test4{
-  color: green;
+  color: greenyellow;
   font-size: 20px;
-}
-
-.test5{
-  color: orange;
-  font-size: 30px;
+  font-family: didot;
 }
