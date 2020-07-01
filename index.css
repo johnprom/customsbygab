@@ -465,7 +465,7 @@ hr.thin {
 }
 
 .addtocartimg{
-  width: 280px;
+  width: 220px;
   float: right;
 }
 
@@ -533,30 +533,27 @@ hr.thin {
   font-size: 50px;
   font-weight: lighter;
   letter-spacing: -2px;
-  color: white;
+  color: black;
 }
 
 .homepagesubhead{
   font-size: 24px;
   font-family: didot;
-  color: white;
+  color: black;
 }
 
 #homeinfo1{
-  display: block;
   background-color: aquamarine;
   margin-left: 220px;
 }
 
 #homeinfo2{
-  display: block;
   background-color: aquamarine;
   margin-right: 220px;
 }
 
 #triple{
   text-align: left;
-  color: white;
   margin-top: 20px;
 
   background-color: rgb(221, 166, 175);
@@ -564,14 +561,12 @@ hr.thin {
 
 #double{
   text-align: right;
-  color: white;
   margin-top: 30px;
   background-color: rgb(221, 166, 175);
 }
 
 #allproducts{
   text-align: left;
-  color: white;
   margin-top: 30px;
   margin-bottom: 20px;
   background-color: rgb(221, 166, 175);
@@ -585,7 +580,6 @@ hr.thin {
   width: 86%;
   margin-left: auto;
   margin-right: auto;
-  color: white;
 }
 
 #triple:hover,#double:hover,#allproducts:hover{
@@ -606,8 +600,4 @@ hr.thin {
   width: 200px;
   float: right;
   border-radius: 10px;
-}
-
-.homepagedes{
-  color: white;
 }
