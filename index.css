@@ -365,7 +365,7 @@ i{
 }
 
 #redbox{
-  width: 66%;
+  width: 62%;
   margin-left: auto;
   margin-right: auto;
   /* float: left; */
@@ -374,12 +374,13 @@ i{
 
 #greenbox{
   margin-top: 40px;
-  width: 80%;
+  width: 88%;
   margin-left: auto;
   margin-right: auto;
   /* float: right;
   margin-right: 10px; */
   /* background-color: green; */
+  margin-bottom: 20px;
 }
 
 #prodpageimg{
@@ -475,7 +476,7 @@ hr.thin {
 }
 
 .selectsizetext{
-  font-size: 20px;
+  font-size: 32px;
 }
 
 #dreamypinkbox{
