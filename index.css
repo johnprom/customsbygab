@@ -171,7 +171,6 @@ main{
   margin-bottom: 55px;
   margin-left: auto;
   margin-right: auto;
-  color: aquamarine;
 }
 
 /* bottom fixed footer */
@@ -372,10 +371,10 @@ i{
 }
 
 #pixlee_container{
-  height: 10px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 15px;
 }
 
 .yeet{
