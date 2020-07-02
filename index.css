@@ -554,9 +554,9 @@ hr.thin {
 
 .homepagehead{
   /* font-family: didot; */
-  font-size: 50px;
-  font-weight: lighter;
-  letter-spacing: -2px;
+  font-family: didot;
+  font-size: xx-large;
+  font-weight: 600;
   color: black
 }
 
@@ -609,7 +609,7 @@ hr.thin {
 }
 
 #triple:hover,#double:hover,#allproducts:hover{
-  background-color: rgb(155, 155, 155);
+  opacity: .8;
 }
 
 /* .homepagesection:hover{
