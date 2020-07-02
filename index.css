@@ -161,6 +161,17 @@ main{
   margin-right: auto;
 }
 
+.aboutmain{
+  width: 100%;
+  max-width: 960px;
+  min-width: 640px;
+  margin-top: 10px;
+  margin-bottom: 55px;
+  margin-left: auto;
+  margin-right: auto;
+  color: aquamarine;
+}
+
 /* bottom fixed footer */
 #footer{
   position: fixed;
@@ -354,10 +365,15 @@ i{
   display: none;
 }
 
+.gallerymain{
+  width: 90%;
+}
+
 #pixlee_container{
   height: 10px;
-  background-color: white;
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .yeet{
@@ -403,10 +419,18 @@ hr.thin {
 .prodmetatext{
   color: black;
   font-size: 18px;
-  padding: 5px;
-  padding-left: 0px;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  padding: 0px;
+}
+
+.prodmetatexthead{
+  color: black;
+  font-size: 20px;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
+#extramargin{
+ margin-bottom: 8px;
 }
 
 #prodpagedesc{
@@ -533,13 +557,13 @@ hr.thin {
   font-size: 50px;
   font-weight: lighter;
   letter-spacing: -2px;
-  color: white;
+  color: black
 }
 
 .homepagesubhead{
   font-size: 24px;
   /* font-family: didot; */
-  color: white;
+  color: black;
 }
 
 #homeinfo1{
@@ -553,13 +577,16 @@ hr.thin {
 #triple{
   text-align: left;
   margin-top: 20px;
-
+  border-style: solid;
+  border-color: black;
   background-color: rgb(221, 166, 175);
 }
 
 #double{
   text-align: right;
   margin-top: 30px;
+  border-style: solid;
+  border-color: black;
   background-color: rgb(221, 166, 175);
 }
 
@@ -567,6 +594,8 @@ hr.thin {
   text-align: left;
   margin-top: 30px;
   margin-bottom: 20px;
+  border-style: solid;
+  border-color: black;
   background-color: rgb(221, 166, 175);
 }
 
